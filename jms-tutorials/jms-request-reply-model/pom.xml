@@ -6,20 +6,15 @@
 		<artifactId>jms-tutorials</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>jms-2.0-new-features</artifactId>
-	<name>jms-2.0-new-features</name>
-	<description>jms-2.0-new-features</description>
+	<artifactId>jms-request-reply-model</artifactId>
+	<name>jms-request-reply-model</name>
+	<description>jms-request-reply-model</description>
 
 	<dependencies>
 		<dependency>
-			<groupId>org.glassfish.mq</groupId>
-			<artifactId>imq</artifactId>
-			<version>5.1</version>
-		</dependency>
-		<dependency>
 			<groupId>javax.jms</groupId>
-			<artifactId>javax.jms-api</artifactId>
-			<version>2.0</version>
+			<artifactId>jms</artifactId>
+			<version>1.1</version>
 		</dependency>
 	</dependencies>
 </project>
