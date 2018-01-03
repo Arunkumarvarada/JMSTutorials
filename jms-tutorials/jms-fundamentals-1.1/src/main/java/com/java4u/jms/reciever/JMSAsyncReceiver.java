@@ -1,4 +1,4 @@
-package com.java4u.jms.reciever;
+ package com.java4u.jms.reciever;
 
 
 import javax.jms.Connection;
