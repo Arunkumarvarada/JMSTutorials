@@ -18,8 +18,6 @@ public class JMSSender {
 		connection.start();
 		Session session = connection.createSession(false, Session.AUTO_ACKNOWLEDGE);
 		Queue queue = session.createQueue("TRADE.Q");
-		
-
 
 		MessageProducer sender = session.createProducer(queue);
 		TextMessage msg = session.createTextMessage("BUY AAPL 1000 SHARES");
