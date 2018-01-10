@@ -1,2 +1,5 @@
+com\java4u\jms\sender\JMSSenderUsingJNDI.class
+com\java4u\jms\sender\JMSSender.class
 com\java4u\jms\reciever\JMSAsyncReceiver.class
 com\java4u\jms\reciever\JMSAsyncReceiver$1.class
+com\java4u\jms\reciever\JMSReceiver.class
