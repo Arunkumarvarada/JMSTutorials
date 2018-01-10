@@ -11,11 +11,7 @@
 		<module>jms-fundamentals-1.1</module>
 		<module>jms-fundamentals-2.0</module>
 		<module>jms-2.0-new-features</module>
-		<module>jms-message-headers</module>
-		<module>jms-request-reply-model</module>
-		<module>jms-pub-sub-model</module>
-		<module>jms-message-filtering</module>
-		<module>jms-acknowlegde-modes</module>
+		
 	</modules>
 
 	<properties>
